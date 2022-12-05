@@ -1,0 +1,15 @@
+General
+=======
+
+- Indicate resume of adjourned game in log. 
+- Make pgn standard compliant.
+- ICC does not allow setting the "interface" variable multiple times. 
+  So icsdroneng cannot use this to communicate things to the user.
+  Duplicate this with a finger note (this is somewhat tricky).
+
+Proxy
+=====
+
+-Make kibitzing similar to xboard kibitzing.
+-More sane opening book moves kibitzing.
+
